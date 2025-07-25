@@ -4,7 +4,7 @@ This project analyzes the geographic distribution of McDonald's restaurants acro
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/preview.png)
+![Dashboard Screenshot](images/preview-mc.png)
 
 ## 🔧 Tools Used
 
