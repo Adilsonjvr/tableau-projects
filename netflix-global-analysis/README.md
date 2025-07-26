@@ -38,5 +38,5 @@ Arquivo limpo: `/netflix-titles-cleaned.csv`
 - Reality shows e conteúdo internacional ganharam força após 2020.
 
 ## 📌 Autor
-Projeto por [Adilson R].  
+Projeto por Adilson R.  
 Mentoria e apoio técnico com IA (ChatGPT Teacher Data).  
